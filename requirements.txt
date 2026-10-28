@@ -1,0 +1,6 @@
+playwright>=1.47
+gymnasium>=1.0
+numpy>=1.26
+pytest>=8
+stable-baselines3>=2.3
+tensorboard>=2.16
