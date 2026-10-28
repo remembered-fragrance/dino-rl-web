@@ -1,4 +1,7 @@
 .venv/
 __pycache__/
-runs/
+runs/**
+!runs/*/
+!runs/*/final.zip
+!runs/*/step_ms.txt
 .pytest_cache/
